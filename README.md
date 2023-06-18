@@ -1,2 +1,2 @@
 # Dissertation
-My master dissertation based on the application of machine learning in finance. Here all the files will be uploaded.
+My master dissertation based on the the DESI analysis and the application of machine learning in finance. The latter part uses data provided in the following repository: https://github.com/tatsath/fin-ml 
